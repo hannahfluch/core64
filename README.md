@@ -45,7 +45,7 @@ To get started with Core64:
 
 Clone the repository:
    ```sh
-   git clone https://github.com/Hqnnqh/core64.git
+   git clone https://github.com/hannahfluch/core64.git
    ``` 
    
 Boot Core64 in QEMU:
